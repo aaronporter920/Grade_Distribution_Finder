@@ -1,0 +1,17 @@
+  INFO-I 303 Organizational Informatics
+  INFO-I 310 Multimedia Arts and Technology
+  INFO-I 320 Distributed Systems and Collaborative Computing
+  INFO-I 330 Legal and Social Informatics of Security
+  INFO-I 356 Globalization, Where We Fit In
+  INFO-I 399 Current Topics in Informatics
+  INFO-I 400 Topics in Informatics
+  INFO-I 421 Applications of Data Mining
+  INFO-I 427 Search Informatics
+  INFO-I 430 Security for Networked Systems
+  INFO-I 433 Systems & Protocol Security & Information Assurance
+  INFO-I 440 Human Robot Interaction
+  INFO-I 441 Interaction Design Practice
+  INFO-I 453 Computer and Information Ethics
+  INFO-I 485 Bioinspired Computing
+  INFO-I 486 Artificial Life
+ 

@@ -1,0 +1,46 @@
+  INFO-I 303 Organizational Informatics
+  INFO-I 310 Multimedia Arts and Technology
+  INFO-I 320 Distributed Systems and Collaborative Computing
+  INFO-I 330 Legal and Social Informatics of Security
+  INFO-I 356 Globalization, Where We Fit In
+  INFO-I 399 Current Topics in Informatics
+  INFO-I 400 Topics in Informatics
+  INFO-I 421 Applications of Data Mining
+  INFO-I 427 Search Informatics
+  INFO-I 430 Security for Networked Systems
+  INFO-I 433 Systems & Protocol Security & Information Assurance
+  INFO-I 440 Human Robot Interaction
+  INFO-I 441 Interaction Design Practice
+  INFO-I 453 Computer and Information Ethics
+  INFO-I 485 Bioinspired Computing
+  INFO-I 486 Artificial Life
+  BUS-S 305 Technology Infrastructure
+  BUS-S 307 Data Management
+  BUS-S 308 Business Application Development
+  BUS-S 310 Systems Analysis and Project Management
+  BUS-S 433 Information Systems Security
+  COGS-Q 351 Introduction to Artificial Intelligence and Computer Simulation
+  JOUR-J 300 Communications Law
+  JOUR-J 448 Global Journalism: Issues and Research
+  SOC-S 339 The Sociology of Media
+  SPEA-V 369 Managing Information Technology
+  TEL-T 321 Policymaking in Telecommunications
+  TEL-T 351 Video Field and Post Production
+  TEL-T 353 Audio Production
+  TEL-T 354 Program Graphics and Animation
+  TEL-T 356 TV Studio Production
+  TEL-T 361 Games and Interactive Media
+  TEL-T 364 Introduction to 3D Digital Modeling and Animation
+  TEL-T 366 Multiplayer Game Design
+  TEL-T 367 Theory and Practice of Game Design
+
+  TEL-T 369 Sound Design
+  TEL-T 421 Economics of Communications Industries
+  TEL-T 427 International Telecommunications
+  TEL-T 431 Video Documentary
+  TEL-T 435 Documentary Production
+  TEL-T 452 Topical Seminar in Design and Production (Topic: Advanced Video Game Design and Production)
+  TEL-T 454 DVD Authoring
+  TEL-T 460 Projects in Game Design
+  TEL-T 461 Advanced Games and Interactive Media
+  TEL-T 464 Advanced 3D Digital Modeling and Animation
